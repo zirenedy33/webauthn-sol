@@ -1,3 +1,7 @@
+
+
+
+
 ## Solidity WebAuthn Authentication Assertion Verifier
 
 Webauthn-sol is a Solidity library for verifying WebAuthn authentication assertions. It builds on [Daimo's WebAuthn.sol](https://github.com/daimo-eth/p256-verifier/blob/master/src/WebAuthn.sol).
